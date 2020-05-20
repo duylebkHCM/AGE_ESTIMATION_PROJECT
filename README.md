@@ -2,6 +2,8 @@
 Personal project for predicted age using Tensorflow, Keras, base on research paper. Using Mean-Variance Loss and Softmax Loss to predict age.
 
 In this project, I build a model base on ResNet-34 architecture.
+Update: Using pretrained model return a better result, in this case i use InceptionV3
+
 
 # DATASET
 The dataset i'm using is FG-NET dataset, which has 1002 images of people between 0-69 years old.
