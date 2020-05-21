@@ -5,9 +5,11 @@ In this project, I build a model base on ResNet-34 architecture.
 Update: Using pretrained model return a better result, in this case i use InceptionV3
 
 
-# DATASET
+## DATASET
 The dataset i'm using is FG-NET dataset, which has 1002 images of people between 0-69 years old.
 Link: http://yanweifu.github.io/FG_NET_data/FGNET.zip
-
+## RESULT
+![Image](https://github.com/duylebkHCM/AGE_ESTIMATION_PROJECT/blob/master/Screenshot%20from%202020-05-20%2022-08-45.png)
+![Image](https://github.com/duylebkHCM/AGE_ESTIMATION_PROJECT/blob/master/Screenshot%20from%202020-05-20%2022-08-48.png)
 # REFERENCE
 H. Pan, H. Han, S. Shan and X. Chen, "Mean-Variance Loss for Deep Age Estimation from a Face," 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition, Salt Lake City, UT, 2018, pp. 5285-5294, doi: 10.1109/CVPR.2018.00554.
