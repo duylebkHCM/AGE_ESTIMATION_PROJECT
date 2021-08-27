@@ -34,7 +34,7 @@ Download All-Age-Face dataset from this repo [Download](https://github.com/Jingc
 * Note: to use Wandb you first need to create an account
 
 ## RESULT
-I use cross-validation with 5 folds for FG-Net and 3 folds for AAF
+I use cross-validation with 5 folds for FG-Net and 3 folds for AAF. **On FG-Net mean MAE on 5 folds is 4.482, on AAF mean MAE on 3 folds is 5.517**
 <p align="center">
 <img src="https://github.com/duylebkHCM/AGE_ESTIMATION_PROJECT/blob/master/assets/fnet_tloss.png" alt="fnet_tloss" width=800 />
 </p>
